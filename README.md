@@ -36,3 +36,5 @@ Dashboard Preview
 - Dataset.xlsx
 - Dashboard Screenshot.png# Sales-Dashboard-Excel
 Interactive Sales Dashboard built in Microsoft Excel
+<img width="1875" height="664" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/6d333a20-7456-4e00-9b33-19ca32273128" />
+
