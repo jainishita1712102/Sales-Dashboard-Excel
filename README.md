@@ -20,10 +20,6 @@ KPIs
 - Average Order Value
 - Total Customers
 
-Dashboard Preview
-
-(Add screenshot here)
-
  Key Insights
 
 - Electronics generated the highest revenue.
@@ -36,5 +32,7 @@ Dashboard Preview
 - Dataset.xlsx
 - Dashboard Screenshot.png# Sales-Dashboard-Excel
 Interactive Sales Dashboard built in Microsoft Excel
+Dashboard Preview
+
 <img width="1875" height="664" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/6d333a20-7456-4e00-9b33-19ca32273128" />
 
